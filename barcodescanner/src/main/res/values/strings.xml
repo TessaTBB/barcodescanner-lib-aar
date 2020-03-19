@@ -65,7 +65,7 @@
   <string name="msg_default_format">Format</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hi</string>
-  <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+  <string name="msg_default_status">Position the barcode in the space below</string>
   <string name="msg_default_time">Time</string>
   <string name="msg_default_type">Type</string>
   <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
@@ -140,4 +140,5 @@
   <string name="result_wifi">Found WLAN Configuration</string>
   <string name="sbc_name">Google Book Search</string>
   <string name="wifi_changing_network">Requesting connection to network\u2026</string>
+    <string name="place_barcode_text">Place the barcode in the space below</string>
 </resources>
